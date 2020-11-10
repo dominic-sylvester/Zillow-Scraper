@@ -9,9 +9,9 @@ Project was originally for comparing pricing of houses over time for a potential
 
 *Recently Integrated with my Discord Bot*
 
-Next Steps:
+**Next Steps:**
 + Change to GUI or a CLI your easier use.
 + Switch to a broader search range but limit amount of scraping (do not want to harm website)
 
-**Screenshot:**
+**Screenshot of Data Pulled:**
 ![Alt text](/Screenshots/zillow-csv.PNG "Zillow CSV Screenshot")
