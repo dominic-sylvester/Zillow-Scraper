@@ -14,4 +14,5 @@ Project was originally for comparing pricing of houses over time for a potential
 + Switch to a broader search range but limit amount of scraping (do not want to harm website)
 
 **Screenshot of Data Pulled:**
+
 ![Alt text](/Screenshots/zillow-csv.PNG "Zillow CSV Screenshot")
