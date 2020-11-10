@@ -13,3 +13,5 @@ Next Steps:
 + Change to GUI or a CLI your easier use.
 + Switch to a broader search range but limit amount of scraping (do not want to harm website)
 
+**Screenshot:**
+![Alt text](/Screenshots/zillow-csv.png "Zillow CSV Screenshot")
